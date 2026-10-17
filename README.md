@@ -2,7 +2,7 @@
 
 # Hi, I'm Ardahan 👋
 
-**IT Specialist & developer-in-the-making** based in Tekirdağ, Turkey 🇹🇷
+**IT Specialist & developer-in-the-making** based in Tekirdağ, Turkey 🇹🇷<br>
 I keep the infrastructure running by day and build software by night.
 
 [![Website](https://img.shields.io/badge/Website-ardahanaytan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ardahanaytan.com)
