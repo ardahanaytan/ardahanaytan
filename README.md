@@ -6,11 +6,19 @@
 I keep the infrastructure running by day and build software by night.
 
 [![Website](https://img.shields.io/badge/Website-ardahanaytan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ardahanaytan.com)
+[![Monty Arcade](https://img.shields.io/badge/Play-Monty_Arcade-FF6B2C?style=for-the-badge&logo=gamepad&logoColor=white)](https://monty-arcade.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ardahan_Aytan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardahan-aytan)
 
 </div>
 
 ---
+
+## 🌐 Live projects
+
+| Site | What you'll find |
+|---|---|
+| 🧑‍💻 [**ardahanaytan.com**](https://ardahanaytan.com) | My personal site: who I am, what I do and how to reach me (TR / EN) |
+| 🎮 [**Monty Arcade**](https://monty-arcade.vercel.app) | Small indie games you can play instantly in the browser. Zero install, achievements, driver profiles, a devlog and a new game every Friday (TR / EN) |
 
 ## 🧰 Tech I work with
 
@@ -31,6 +39,7 @@ I keep the infrastructure running by day and build software by night.
 
 ## 📈 Currently
 
+- 🎮 Shipping a new browser game every Friday on [**Monty Arcade**](https://monty-arcade.vercel.app)
 - 🔭 Building full-stack projects with **Node.js, Express and MySQL**
 - 🌱 Going deeper into **Python and Machine Learning**
 - 🛠️ Bridging the gap between **IT operations and software development**
